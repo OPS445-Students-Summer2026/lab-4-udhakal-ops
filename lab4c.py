@@ -6,5 +6,6 @@ def create_dictionary(keys, values):
 def shared_values(dict1, dict2):
     return set(dict1.values()) & set(dict2.values())
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     pass
