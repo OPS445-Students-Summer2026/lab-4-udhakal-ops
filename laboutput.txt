@@ -168,6 +168,6 @@ AssertionError: 'def middle_number(num):' != '#!/usr/bin/env python3'
  : your program does not have a shebang line(HINT: what should the first line contain)
 
 ----------------------------------------------------------------------
-Ran 51 tests in 0.210s
+Ran 51 tests in 0.190s
 
 FAILED (failures=1, errors=6)
